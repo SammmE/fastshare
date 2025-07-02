@@ -6,6 +6,19 @@ description = "Ultra-fast file sharing between devices on the same network"
 license = "MIT"
 authors = ["Samhith Enganti <enganti.samhith@gmail.com>"]
 readme = "README.md"
+repository = "https://github.com/SammmE/fastshare"
+homepage = "https://github.com/SammmE/fastshare"
+keywords = [
+    "file-sharing",
+    "file-transfer",
+    "network",
+    "fast",
+    "local network",
+    "peer-to-peer",
+    "cross-platform",
+    "p2p",
+]
+categories = ["command-line-utilities"]
 
 [dependencies]
 tokio = { version = "1.0", features = ["full"] }
