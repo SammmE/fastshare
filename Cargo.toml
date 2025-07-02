@@ -11,7 +11,7 @@ homepage = "https://github.com/SammmE/fastshare"
 keywords = [
     "file-transfer",
     "network",
-    "local network",
+    "cli",
     "cross-platform",
     "p2p",
 ]
